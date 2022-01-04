@@ -49,6 +49,9 @@ h1 {
   background-repeat: no-repeat;
   background-position: left;
 }
+.experience-area h1 {
+  padding-left: 2%;
+}
 #web-dev-experience {
   border-left: 7px solid;
   border-image: linear-gradient(blue, cyan);
